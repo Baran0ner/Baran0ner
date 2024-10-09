@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baran Öner</h1>
+<h1 align="center">I'm Baran Öner</h1>
 <h3 align="center">a computer engineering student from Turkey</h3>
 
 - 📫 How to reach me **barann0ner@gmail.com**
