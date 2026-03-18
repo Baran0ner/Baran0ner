@@ -53,9 +53,24 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 
 <h2 align="left">Activity</h2>
 
+## Consistency
+
+<p>
+  Building practical AI products and turning ideas into working systems across data, mobile, and applied AI.
+</p>
+
+<p>
+  This section highlights my contribution consistency and long-term commitment to building, learning, and shipping.
+</p>
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=16&card_width=900&card_height=235&hide_current_streak=true"
+    src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=14&card_width=860&card_height=230&background=0D1117&stroke=2F3B63&ring=7AA2F7&fire=7AA2F7&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=8B949E"
+    alt="GitHub Streak Stats"
     width="100%"
   />
+</p>
+
+<p align="center">
+  <sub>Focused on AI, Data Engineering, and product-oriented development.</sub>
 </p>
