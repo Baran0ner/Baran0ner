@@ -70,10 +70,3 @@ I enjoy building systems that turn raw data and ideas into useful products, from
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baran0ner&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baran0ner&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baran0ner&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,commits,issues,prs" />
-</p>
