@@ -53,7 +53,8 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 
 ## Activity
 
-<p align="center">
-  <img width="909" height="321" alt="image" src="https://github.com/user-attachments/assets/85e98c6d-5bbc-4310-9fc0-9e1602331d2f" />
-</p>
+<h2 align="left">Activity</h2>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baran0ner&theme=github_dark&utcOffset=3" width="49%" />
+</p>
