@@ -17,7 +17,7 @@
 
 ## About
 
-Final-year Computer Engineering student focused on AI, Data Engineering, and practical product development. 
+Final year Computer Engineering student focused on AI, Data Engineering, and practical product development. 
 I enjoy building systems that turn raw data and ideas into useful products, from dashboards and ETL workflows to AI powered tools and mobile app experiences.
 
 ---
