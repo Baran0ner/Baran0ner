@@ -72,4 +72,6 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="909" height="321" alt="image" src="https://github.com/user-attachments/assets/85e98c6d-5bbc-4310-9fc0-9e1602331d2f" />
 </p>
+
