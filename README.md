@@ -1,97 +1,81 @@
-<h1 align="center">Hi, I'm Baran Öner 👋</h1>
+<h1 align="center">Baran Öner</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+%26+Software+Development+Enthusiast;Building+clean+and+practical+projects" alt="Typing SVG" />
+  Junior Data Analyst | AI & Data Engineer | Building Mobile & AI Products
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/baran-oner">
-    <img src="https://img.shields.io/badge/LinkedIn-Baran%20%C3%96ner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/baran-oner/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:baran0ner@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/BaranOner">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:barann0ner@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 Computer Engineering student from Turkey
-- 💻 Interested in software development, backend systems, and problem solving
-- 🌱 Currently improving myself in **Java, Python, JavaScript, and database systems**
-- 🎯 Focused on building projects that are clean, useful, and scalable
+Final-year Computer Engineering student focused on AI, Data Engineering, and practical product development.
 
----
+I enjoy building systems that turn raw data and ideas into useful products, from dashboards and ETL workflows to AI-powered tools and mobile app experiences.
 
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+Currently working on an AI/ML-based optimization project with TUSAŞ to improve composite manufacturing processes.
 
 ---
 
-## 📊 GitHub Stats
+## Background
+
+- Worked on data reporting, ETL, dashboarding, and AI-supported workflows across internships and academic projects
+- Experienced with Python, SQL, Power BI, Excel, Microsoft Azure, Docker, and Jira
+- Interested in AI & Data, Data Engineering, and Mobile App Development
+- Focused on building practical AI products and turning ideas into working products
+
+---
+
+## Experience Highlights
+
+- **TUSAŞ – Graduation Project**  
+  Developing AI/ML models and genetic algorithm-based optimization for composite manufacturing processes
+
+- **Organik Kimya – Data Analyst Intern**  
+  Built Power BI reports and dashboards using Oracle database metrics for internal reporting
+
+- **İSBAK – Data Engineering Intern**  
+  Processed Istanbul traffic time-series data and deployed an interactive monitoring solution on Azure
+
+- **Insider One – Software Intern (AI / ML)**  
+  Worked on AI and LLM-based workflow automation, including an internal document-query chatbot
+
+- **Testinium – Data Reporting Intern**  
+  Analyzed API performance data and supported validation automation with Selenium and Postman
+
+---
+
+## Selected Achievements
+
+- **Microsoft & Alternatif Bank Hackathon — 3rd Place**
+- **TUSAŞ LIFT UP**
+- **Be Node 2025 Program — 1st Place Graduate**
+- **LetsInnoMind — 2nd Place**
+
+---
+
+## Current Focus
+
+- AI/ML optimization systems
+- Data workflows and reporting
+- Building mobile and AI-driven products
+
+---
+
+## Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BaranOner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaranOner&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BaranOner&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaranOner&theme=tokyo-night&hide_border=true&radius=12" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 Project One
-Short one-line explanation of what this project does and why it matters.  
-[Repository Link](https://github.com/BaranOner)
-
-### 🔹 Project Two
-Short one-line explanation of your second project.  
-[Repository Link](https://github.com/BaranOner)
-
-### 🔹 Project Three
-Short one-line explanation of another project you are proud of.  
-[Repository Link](https://github.com/BaranOner)
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/baran-oner">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:baran0ner@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Always learning, always building.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baran0ner&theme=github-dark&hide_border=true&radius=10" />
 </p>
