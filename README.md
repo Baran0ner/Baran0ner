@@ -46,7 +46,7 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 - 🥈 **Organik Kimya LetsInnoMind Sustainability Competition — 2nd Place**  
   Sustainability focused innovation project.
 
-- 🥈 ** Sustain2Solve Entrepreneurship Marathon — 2nd Place**  
+- 🥈 **Sustain2Solve Entrepreneurship Marathon — 2nd Place**  
   B2B circular economy marketplace concept.
 
 ---
@@ -56,5 +56,5 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 <h2 align="left">Activity</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baran0ner&theme=github_dark&utcOffset=3" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
