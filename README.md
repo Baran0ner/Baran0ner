@@ -53,15 +53,6 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 
 <h2 align="left">Activity</h2>
 
-## Consistency
-
-<p>
-  Building practical AI products and turning ideas into working systems across data, mobile, and applied AI.
-</p>
-
-<p>
-  This section highlights my contribution consistency and long-term commitment to building, learning, and shipping.
-</p>
 
 <p align="center">
   <img
