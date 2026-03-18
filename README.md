@@ -63,5 +63,5 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 </p>
 
 <p align="center">
-  <sub>Focused on AI, Data Engineering, and product-oriented development.</sub>
+  <sub>Focused on AI, Data Engineering, and product oriented development.</sub>
 </p>
