@@ -62,10 +62,10 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 
 ## Activity
 
+
 <h2 align="left">Activity</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baran0ner&theme=github_dark&utcOffset=3" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baran0ner&theme=github_dark" width="49%" />
 </p>
-
