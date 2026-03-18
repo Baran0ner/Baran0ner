@@ -55,8 +55,7 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=16&card_width=900&card_height=235&background=0B1220&stroke=334155&ring=60A5FA&fire=60A5FA&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=93C5FD&sideLabels=93C5FD&dates=94A3B8"
-    alt="GitHub Streak Stats"
+    src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=16&card_width=900&card_height=235&hide_current_streak=true"
     width="100%"
   />
 </p>
