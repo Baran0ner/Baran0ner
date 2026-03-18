@@ -21,8 +21,6 @@ Final-year Computer Engineering student focused on AI, Data Engineering, and pra
 
 I enjoy building systems that turn raw data and ideas into useful products, from dashboards and ETL workflows to AI-powered tools and mobile app experiences.
 
-Currently working on an AI/ML-based optimization project with TUSAŞ to improve composite manufacturing processes.
-
 ---
 
 ## Background
@@ -62,14 +60,6 @@ Currently working on an AI/ML-based optimization project with TUSAŞ to improve 
 
 ---
 
-## Current Focus
-
-- AI/ML optimization systems
-- Data workflows and reporting
-- Building mobile and AI-driven products
-
----
-
 ## Activity
 
 <p align="center">
@@ -81,13 +71,17 @@ Currently working on an AI/ML-based optimization project with TUSAŞ to improve 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baran0ner&theme=github-compact&days=14&height=260&area=true&hide_border=true&grid=false&radius=10" width="92%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baran0ner&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baran0ner&theme=github-compact&from=2026-03-01&to=2026-03-18&height=260&area=true&hide_border=true&grid=false&radius=10" width="92%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baran0ner&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baran0ner&theme=github-compact&days=14&height=260&area=true&hide_border=true&grid=false&radius=10" width="92%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baran0ner&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,commits,issues,prs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Baran0ner&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&title=Commits,Repositories,Experience,MultiLanguage" />
 </p>
