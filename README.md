@@ -5,13 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/baran-oner/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/baran-oner">
+    <img src="https://img.shields.io/badge/LinkedIn-Baran%20%C3%96ner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:barann0ner@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:baran0ner@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BaranOner">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
