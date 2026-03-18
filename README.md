@@ -21,9 +21,8 @@
 
 ## About
 
-Final-year Computer Engineering student focused on AI, Data Engineering, and practical product development.
-
-I enjoy building systems that turn raw data and ideas into useful products, from dashboards and ETL workflows to AI-powered tools and mobile app experiences.
+Final-year Computer Engineering student focused on AI, Data Engineering, and practical product development. 
+I enjoy building systems that turn raw data and ideas into useful products, from dashboards and ETL workflows to AI powered tools and mobile app experiences.
 
 ---
 
@@ -36,46 +35,25 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 
 ---
 
-## Experience Highlights
+## Achievements
 
-- **TUSAŞ – Graduation Project**  
-  Developing AI/ML models and genetic algorithm-based optimization for composite manufacturing processes
+- 🥉 **Microsoft & Alternatif Bank Hackathon — 3rd Place**  
+  Accessibility project built with Microsoft Azure and AI.
 
-- **Organik Kimya – Data Analyst Intern**  
-  Built Power BI reports and dashboards using Oracle database metrics for internal reporting
+- 🥉 **Eczacıbaşı Be Node Program — Top 3 Graduate**  
+  Recognized among the top graduates of the program.
 
-- **İSBAK – Data Engineering Intern**  
-  Processed Istanbul traffic time-series data and deployed an interactive monitoring solution on Azure
+- 🥈 **Organik Kimya LetsInnoMind Sustainability Competition — 2nd Place**  
+  Sustainability focused innovation project.
 
-- **Insider One – Software Intern (AI / ML)**  
-  Worked on AI and LLM-based workflow automation, including an internal document-query chatbot
-
-- **Testinium – Data Reporting Intern**  
-  Analyzed API performance data and supported validation automation with Selenium and Postman
-
----
-
-## Selected Achievements
-
-- **Microsoft & Alternatif Bank Hackathon — 3rd Place**
-- **TUSAŞ LIFT UP**
-- **Be Node 2025 Program — 1st Place Graduate**
-- **LetsInnoMind — 2nd Place**
-
----
-
-## Current Focus
-
-- AI/ML optimization systems
-- Data workflows and reporting
-- Building mobile and AI-driven products
+- 🥈 ** Sustain2Solve Entrepreneurship Marathon — 2nd Place**  
+  B2B circular economy marketplace concept.
 
 ---
 
 ## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=10" />
   <img width="909" height="321" alt="image" src="https://github.com/user-attachments/assets/85e98c6d-5bbc-4310-9fc0-9e1602331d2f" />
 </p>
 
