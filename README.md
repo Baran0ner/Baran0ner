@@ -15,17 +15,62 @@
 
 ---
 
-I am a final-year Computer Engineering student focused on AI, Data Engineering, and product-oriented development.
+## About
 
-My work combines data, automation, and applied AI — from dashboards and ETL processes to AI-supported internal tools and mobile product ideas.
+Final-year Computer Engineering student focused on AI, Data Engineering, and practical product development.
 
-Currently working on an AI/ML optimization project with **TUSAŞ**.
+I enjoy building systems that turn raw data and ideas into useful products, from dashboards and ETL workflows to AI-powered tools and mobile app experiences.
 
-**Highlights**
-- Microsoft & Alternatif Bank Hackathon — 3rd Place
-- TUSAŞ LIFT UP
-- Be Node 2025 — 1st Place Graduate
-- LetsInnoMind — 2nd Place
+Currently working on an AI/ML-based optimization project with TUSAŞ to improve composite manufacturing processes.
+
+---
+
+## Background
+
+- Worked on data reporting, ETL, dashboarding, and AI-supported workflows across internships and academic projects
+- Experienced with Python, SQL, Power BI, Excel, Microsoft Azure, Docker, and Jira
+- Interested in AI & Data, Data Engineering, and Mobile App Development
+- Focused on building practical AI products and turning ideas into working products
+
+---
+
+## Experience Highlights
+
+- **TUSAŞ – Graduation Project**  
+  Developing AI/ML models and genetic algorithm-based optimization for composite manufacturing processes
+
+- **Organik Kimya – Data Analyst Intern**  
+  Built Power BI reports and dashboards using Oracle database metrics for internal reporting
+
+- **İSBAK – Data Engineering Intern**  
+  Processed Istanbul traffic time-series data and deployed an interactive monitoring solution on Azure
+
+- **Insider One – Software Intern (AI / ML)**  
+  Worked on AI and LLM-based workflow automation, including an internal document-query chatbot
+
+- **Testinium – Data Reporting Intern**  
+  Analyzed API performance data and supported validation automation with Selenium and Postman
+
+---
+
+## Selected Achievements
+
+- **Microsoft & Alternatif Bank Hackathon — 3rd Place**
+- **TUSAŞ LIFT UP**
+- **Be Node 2025 Program — 1st Place Graduate**
+- **LetsInnoMind — 2nd Place**
+
+---
+
+## Current Focus
+
+- AI/ML optimization systems
+- Data workflows and reporting
+- Building mobile and AI-driven products
+
+---
+
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=10" />
