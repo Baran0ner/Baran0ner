@@ -1,15 +1,36 @@
-<h1 align="center">I'm Baran Öner</h1>
-<h3 align="center">A computer engineering student from Turkey</h3>
+<h1 align="center">Baran Öner</h1>
 
-<h3 align="left">Connect with me:</h3>
-
-- - **www.linkedin.com/in/baran-oner**
-
-- - **barann0ner@gmail.com**
-
-<p align="left">
+<p align="center">
+  Junior Data Analyst | AI & Data Engineer | Building Mobile & AI Products
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/baran-oner/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:barann0ner@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
+
+I am a final-year Computer Engineering student focused on AI, Data Engineering, and product-oriented development.
+
+My work combines data, automation, and applied AI — from dashboards and ETL processes to AI-supported internal tools and mobile product ideas.
+
+Currently working on an AI/ML optimization project with **TUSAŞ**.
+
+**Highlights**
+- Microsoft & Alternatif Bank Hackathon — 3rd Place
+- TUSAŞ LIFT UP
+- Be Node 2025 — 1st Place Graduate
+- LetsInnoMind — 2nd Place
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baran0ner&theme=github-dark&hide_border=true&radius=10" />
+</p>
