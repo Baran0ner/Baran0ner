@@ -21,8 +21,6 @@ Final-year Computer Engineering student focused on AI, Data Engineering, and pra
 
 I enjoy building systems that turn raw data and ideas into useful products, from dashboards and ETL workflows to AI-powered tools and mobile app experiences.
 
-Currently working on an AI/ML-based optimization project with TUSAŞ to improve composite manufacturing processes.
-
 ---
 
 ## Background
@@ -74,8 +72,4 @@ Currently working on an AI/ML-based optimization project with TUSAŞ to improve 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Baran0ner&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baran0ner&theme=github-dark&hide_border=true&radius=10" />
 </p>
