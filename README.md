@@ -67,10 +67,6 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baran0ner&theme=github-dark&hide_border=true&radius=10" />
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baran0ner&theme=github_dark" />
 </p>
 
@@ -80,8 +76,4 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Baran0ner&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,commits,issues,prs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baran0ner&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&title=Commits,Repositories,Experience,MultiLanguage" />
 </p>
