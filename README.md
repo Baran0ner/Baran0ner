@@ -83,3 +83,8 @@ Currently working on an AI/ML-based optimization project with TUSAŞ to improve 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baran0ner&theme=github-compact&days=14&height=260&area=true&hide_border=true&grid=false&radius=10" width="92%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baran0ner&theme=github-compact&from=2026-03-01&to=2026-03-18&height=260&area=true&hide_border=true&grid=false&radius=10" width="92%" />
+</p>
+
