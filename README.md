@@ -31,22 +31,6 @@ I enjoy building systems that turn raw data and ideas into useful products, from
 
 ---
 
-## Achievements
-
-- 🥉 **Microsoft & Alternatif Bank Hackathon — 3rd Place**  
-  Accessibility project built with Microsoft Azure and AI.
-
-- 🥉 **Eczacıbaşı Be Node Program — Top 3 Graduate**  
-  Recognized among the top graduates of the program.
-
-- 🥈 **Organik Kimya LetsInnoMind Sustainability Competition — 2nd Place**  
-  Sustainability focused innovation project.
-
-- 🥈 **Sustain2Solve Entrepreneurship Marathon — 2nd Place**  
-  B2B circular economy marketplace concept.
-
----
-
 <h2 align="left">Activity</h2>
 
 
